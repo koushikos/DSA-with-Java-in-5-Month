@@ -10,7 +10,7 @@ Goal: Build strong DSA fundamentals + solve 250–350 problems + become intervie
 
 Time Required: 2–3 hours daily minimum.
 
----
+---  
 
 # 📌 Prerequisites (Before Starting)
 
