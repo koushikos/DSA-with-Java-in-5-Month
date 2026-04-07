@@ -7,7 +7,7 @@ Structured 5-month DSA with Java learning plan covering fundamentals to advanced
 This repository is a structured **5-month Data Structures & Algorithms (DSA) learning plan using Java** — designed for beginners who want to become strong in problem solving, coding interviews, and competitive programming.
 
 Goal: Build strong DSA fundamentals + solve 250–350 problems + become interview ready.
-
+ 
 Time Required: 2–3 hours daily minimum.
    
 ---  
