@@ -13,7 +13,7 @@ Time Required: 2–3 hours daily minimum.
 ---  
  
 # 📌 Prerequisites (Before Starting) 
-
+ 
 You should know: 
  
 - Basic Java syntax
