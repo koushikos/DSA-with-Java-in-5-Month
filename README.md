@@ -104,7 +104,7 @@ If not — spend 7 days learning Java basics first.
 
 **Problems**
 - Reverse string
-- Anagram check
+- Anagram check  
 - Longest substring without repeat
 - Valid palindrome
 - Frequency count
