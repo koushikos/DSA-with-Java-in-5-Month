@@ -4,7 +4,7 @@ Structured 5-month DSA with Java learning plan covering fundamentals to advanced
 
 # 🚀 5-Month DSA with Java — Complete Zero-to-Advanced Roadmap
 
-This repository is a structured **5-month Data Structures & Algorithms (DSA) learning plan using Java** — designed for beginners who want to become strong in problem solving, coding interviews, and competitive programming.
+This repository is a structured **5-month Data Structures & Algorithms (DSA) learning plan using Java** — designed for beginners who want to become strong in problem solving, coding interviews, and competitive programming.  
 
 Goal: Build strong DSA fundamentals + solve 250–350 problems + become interview ready.
 
